@@ -1,10 +1,10 @@
-/*
+/* base on
  * Program to measure the value of R0 for a know RL at fresh air condition
  * Program by: B.Aswinth Raj
  * Website: www.circuitdigest.com                                       
  * Dated: 28-12-2017
  */
-//This program works best at a fresh air room with temperaure Temp: 20℃, Humidity: 65%, O2 concentration 21% and when the value of Rl is 47K
+//This program works best at a fresh air room with temperaure Temp: 20℃, Humidity: 30%, O2 concentration 21% and when the value of Rl is 10k
 
 #define RL 10  //The value of resistor RL is 47K
 
