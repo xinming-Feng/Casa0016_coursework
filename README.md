@@ -48,4 +48,4 @@ The system integrates all components with the **Arduino Uno**, powered via **5V 
 
 
 Demo:
-https://studio.youtube.com/video/0cOmasffXaE/edit
+https://www.youtube.com/watch?v=0cOmasffXaE
